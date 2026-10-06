@@ -5,8 +5,9 @@ with cte as(
   select 
   upper(method) as method,
   latency,
-  row_number() over(partition by upper(method) order by latency nulls last) as rnk
-  from api_calls)
+  row_number() over(partition by upper(method) order by latency) as rnk
+  from api_calls
+  where latency is not null)
 select method, round(avg(latency),2) as fastest_five_avg
 from cte
 where rnk <=5
