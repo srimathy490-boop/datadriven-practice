@@ -3,7 +3,7 @@ with total_revenue_per_product as
   category,
   product_name,
   sum(total_amount) as total_revenue
-  , row_number() over(partition by category order by sum(total_amount) desc) as rnk
+  , row_number() over(partition by category order by sum(total_amount) desc, product_name) as rnk
 from transactions t
 join products p
 on t.product_id=p.product_id
