@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zesty_moon_5851), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-10-21 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-17 |
 | [Kings of the Aisle](./practice/sql/kings-of-the-aisle) | SQL | Medium | 2026-10-15 |
 | [Build Success vs Failure by Repo](./practice/sql/build-success-vs-failure-by-repo) | SQL | Medium | 2026-10-13 |
