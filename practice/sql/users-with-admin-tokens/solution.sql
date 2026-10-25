@@ -7,5 +7,5 @@ select
 from users u
 inner join api_tokens tkn
 on u.user_id=tkn.owner_id
-where scope = 'admin'
+where scope like '%admin%'
 order by user_id, issued;
