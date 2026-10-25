@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zesty_moon_5851), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Users With Admin Tokens](./practice/sql/users-with-admin-tokens) | SQL | Medium | 2026-10-25 |
 | [Deployment Duration by Status](./practice/sql/deployment-duration-by-status) | SQL | Easy | 2026-10-23 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-10-21 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-17 |
