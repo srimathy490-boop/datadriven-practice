@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zesty_moon_5851), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Tiers of Want](./practice/sql/tiers-of-want) | SQL | Hard | 2026-10-30 |
 | [Error Category Breakdown](./practice/sql/error-category-breakdown) | SQL | Hard | 2026-10-28 |
 | [Stock Status](./practice/sql/stock-status) | SQL | Easy | 2026-10-28 |
 | [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-10-26 |
