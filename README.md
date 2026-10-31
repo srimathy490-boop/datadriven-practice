@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zesty_moon_5851), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Tenure Mentorship Match](./practice/sql/tenure-mentorship-match) | SQL | Medium | 2026-10-31 |
 | [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Medium | 2026-10-30 |
 | [Tiers of Want](./practice/sql/tiers-of-want) | SQL | Hard | 2026-10-30 |
 | [Error Category Breakdown](./practice/sql/error-category-breakdown) | SQL | Hard | 2026-10-28 |
