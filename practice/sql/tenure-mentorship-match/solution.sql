@@ -2,7 +2,7 @@ with ranked_author as (
   SELECT
     REPO_NAME,
     AUTHOR AS MOST_TENURED_AUTHOR,
-    ROW_NUMBER() OVER(PARTITION BY REPO_NAME ORDER BY opened_at) as rnk
+    ROW_NUMBER() OVER(PARTITION BY REPO_NAME ORDER BY opened_at, review_id) as rnk
   FROM
     CODE_REVIEWS 
  )
