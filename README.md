@@ -22,7 +22,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zesty_moon_5851), committe
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-17 |
 | [Kings of the Aisle](./practice/sql/kings-of-the-aisle) | SQL | Medium | 2026-10-15 |
 | [Build Success vs Failure by Repo](./practice/sql/build-success-vs-failure-by-repo) | SQL | Medium | 2026-10-13 |
-| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Easy | 2026-10-13 |
+| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-10-13 |
 | [Back Again](./practice/sql/back-again) | SQL | Medium | 2026-10-11 |
 | [The Long Tail](./practice/sql/the-long-tail) | SQL | Medium | 2026-10-06 |
 | [Non-Bot Acknowledged Alerts](./practice/sql/non-bot-acknowledged-alerts) | SQL | Easy | 2026-10-03 |
