@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zesty_moon_5851), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-11-06 |
 | [Click-Through by Campaign](./practice/sql/click-through-by-campaign) | SQL | Medium | 2026-11-01 |
 | [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-10-31 |
 | [Tenure Mentorship Match](./practice/sql/tenure-mentorship-match) | SQL | Medium | 2026-10-31 |
