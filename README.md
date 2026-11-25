@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zesty_moon_5851), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [Top Product Categories](./practice/sql/top-product-categories) | SQL | Easy | 2026-11-23 |
+| [Top Product Categories](./practice/sql/top-product-categories) | SQL | Medium | 2026-11-23 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-11-17 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-14 |
 | [Follow the Money](./practice/sql/follow-the-money) | SQL | Easy | 2026-11-14 |
